@@ -2,6 +2,7 @@
 My Sublime Settings
 
 
+```shell
 {
 	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
 	"ignored_packages":
@@ -18,4 +19,7 @@ My Sublime Settings
 	"ui_sidebar_highlight_row": true,
 	"ui_wide_scrollbars": true
 }
+```
+
+
 
