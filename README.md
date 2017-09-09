@@ -20,6 +20,8 @@ My Sublime Settings
 	"ui_wide_scrollbars": true
 }
 ```
-
+# Golang Plugins
+* https://packagecontrol.io/packages/Golang%20Tools%20Integration
+* https://github.com/golang/sublime-build
 
 
